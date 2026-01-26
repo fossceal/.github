@@ -1,4 +1,4 @@
-<h1 align="center">🌍 Hello, World! — from FOSS CEAL</h1>
+<h1 align="center">Hello, World! - from FOSS CEAL</h1>
 
 <p align="center">
   <b>Official GitHub Organization of FOSS CEAL</b>
@@ -26,6 +26,7 @@ The vision of **FOSS CEAL** is to encourage and promote the use of **Free and Op
 
 ## 🏛 Chambers of FOSS CEAL
 
+> [!NOTE]
 > An initiative under **FOSS CEAL**, established in **2024**
 
 FOSS CEAL is structured into **five specialized chambers**, each focusing on a core domain:
